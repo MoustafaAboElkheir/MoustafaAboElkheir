@@ -22,11 +22,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### Areas of Expertise:
@@ -47,6 +47,15 @@ A deep learning project implementing Generative Adversarial Networks (GANs) in P
 
 ### ⚡ [Distributed-KMeans-Spark](https://github.com/MoustafaAboElkheir/Distributed-KMeans-Spark)
 A scalable data engineering pipeline implementing K-Means clustering using Apache Spark and Hadoop MapReduce for large-scale dataset analysis.
+
+### 🛒 [E-Commerce-Recommendation-Engine](https://github.com/MoustafaAboElkheir/E-Commerce-Recommendation-Engine)
+A collaborative filtering and content-based recommendation system using SVD matrix factorisation for e-commerce personalisation.
+
+### 🏭 [IoT-Predictive-Maintenance](https://github.com/MoustafaAboElkheir/IoT-Predictive-Maintenance)
+ML pipeline predicting equipment failure in Industry 4.0 using turbofan engine sensor telemetry (XGBoost, Random Forest).
+
+### 📞 [Telecom-Customer-Churn-Prediction](https://github.com/MoustafaAboElkheir/Telecom-Customer-Churn-Prediction)
+End-to-end churn prediction for telecom customers with EDA, class imbalance handling, and model interpretability.
 
 ---
 
