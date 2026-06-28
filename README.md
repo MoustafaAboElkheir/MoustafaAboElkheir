@@ -65,8 +65,4 @@ End-to-end churn prediction for telecom customers with EDA, class imbalance hand
 - **Machine Learning Specialization** - DeepLearning.AI / Stanford University
 - **AWS Academy** - Data Engineering, ML Foundations, Cloud Foundations
 
-<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoustafaAboElkheir&show_icons=true&theme=radical" alt="Moustafa's GitHub Stats" />
-</p>
